@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sun Apr 18 00:12:14 CST 2021
+org.eclipse.jst.jee.server\:/binary\:D\:\\Maven\\RepMaven\\org\\springframework\\spring-web\\4.3.20.RELEASE\\spring-web-4.3.20.RELEASE.jar=WEB-INF/lib/spring-web-4.3.20.RELEASE.jar
+org.eclipse.jst.j2ee.server\:atcrowdfunding05-common-util=WEB-INF/lib/atcrowdfunding05-common-util-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:atcrowdfunding04-admin-entity=WEB-INF/lib/atcrowdfunding04-admin-entity-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:atcrowdfunding03-admin-component=WEB-INF/lib/atcrowdfunding03-admin-component-0.0.1-SNAPSHOT.jar
